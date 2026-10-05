@@ -12,3 +12,4 @@ C:\Users\screw\RiderProjects\workshop 2\Task 1\obj\Debug\net10.0\refint\Task 1.d
 C:\Users\screw\RiderProjects\workshop 2\Task 1\obj\Debug\net10.0\Task 1.pdb
 C:\Users\screw\RiderProjects\workshop 2\Task 1\obj\Debug\net10.0\Task 1.genruntimeconfig.cache
 C:\Users\screw\RiderProjects\workshop 2\Task 1\obj\Debug\net10.0\ref\Task 1.dll
+C:\Users\screw\RiderProjects\workshop 2\Task 1\obj\Debug\net10.0\Task 1.sourcelink.json
