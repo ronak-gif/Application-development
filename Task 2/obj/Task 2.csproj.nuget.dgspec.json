@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 1\\Task 1.csproj": {}
+    "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 2\\Task 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 1\\Task 1.csproj": {
+    "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 2\\Task 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 1\\Task 1.csproj",
-        "projectName": "Task 1",
-        "projectPath": "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 1\\Task 1.csproj",
+        "projectUniqueName": "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 2\\Task 2.csproj",
+        "projectName": "Task 2",
+        "projectPath": "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 2\\Task 2.csproj",
         "packagesPath": "C:\\Users\\screw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 1\\obj\\",
+        "outputPath": "C:\\Users\\screw\\RiderProjects\\workshop 2\\Task 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\screw\\AppData\\Roaming\\NuGet\\NuGet.Config"
